@@ -1,0 +1,31 @@
+{
+    "AutofillAddressEnabled": false,
+    "AutofillCreditCardEnabled": false,
+    "DefaultGeolocationSetting": 2,
+    "DefaultJavaScriptJitSetting": 2,
+    "DefaultJavaScriptOptimizerSetting": 2,
+    "DefaultNotificationsSetting": 2,
+    "DefaultPopupsSetting": 2,
+    "DefaultSearchProviderEnabled": true,
+    "DefaultSearchProviderKeyword": "ddg",
+    "DefaultSearchProviderName": "DuckDuckGo",
+    "DefaultSearchProviderSearchURL": "https://duckduckgo.com/?q={searchTerms}",
+    "DefaultSearchProviderSuggestURL": "https://duckduckgo.com/ac/?q={searchTerms}&type=list",
+    "EnterpriseProfileCreationKeepBrowsingData": false,
+    "ImportAutofillFormData": false,
+    "ImportBookmarks": false,
+    "ImportHistory": false,
+    "ImportSavedPasswords": false,
+    "ImportSearchEngine": false,
+    "NetworkPredictionOptions": 2,
+    "PasswordManagerEnabled": false,
+    "PasswordManagerPasskeysEnabled": false,
+    "RestoreOnStartup": 5,
+    "SafeBrowsingProtectionLevel": 1,
+    "SearchSuggestEnabled": false,
+    "ShowFullUrlsInAddressBar": true,
+    "WebUsbAskForUrls": [
+        "https://flash.android.com",
+        "https://grapheneos.org"
+    ]
+}
