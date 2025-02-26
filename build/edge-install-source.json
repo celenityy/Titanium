@@ -1,0 +1,10 @@
+{
+    "ExtensionSettings": {
+        "*": {
+            "install_sources": [
+                "https://chromewebstore.google.com/*",
+                "https://microsoftedge.microsoft.com/*"
+            ]
+        }
+    }
+}

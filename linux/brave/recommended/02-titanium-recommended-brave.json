@@ -1,0 +1,7 @@
+{
+    "BraveAIChatEnabled": false,
+    "BraveShieldsDisabledForUrls": [
+      "https://grapheneos.org"
+  ],
+  "DownloadRestrictions": 4
+}

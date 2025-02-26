@@ -1,0 +1,28 @@
+{
+  "ExtensionSettings": {
+    "*": {
+      "blocked_install_message": "I am Iron Man.",
+      "install_sources": [
+        "https://chromewebstore.google.com/*"
+      ]
+    },
+    "lkbebcjgcmobigpeffafkodonchffocl": {
+      "blocked_install_message": "Bypass Paywalls Clean",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "allowed",
+      "toolbar_pin": "default_unpinned"
+    },
+    "cjpalhdlnbpafiamejdnhcphjbkeiagm": {
+      "blocked_install_message": "uBlock Origin",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "normal_installed",
+      "toolbar_pin": "force_pinned",
+      "update_url": "https://clients2.google.com/service/update2/crx"
+    },
+    "inomeogfingihgjfjlpeplalcfajhgai": {
+      "blocked_install_message": "Chrome Remote Desktop: https://chromewebstore.google.com/detail/chrome-remote-desktop/inomeogfingihgjfjlpeplalcfajhgai",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    }
+  }
+}
