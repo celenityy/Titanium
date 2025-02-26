@@ -37,6 +37,18 @@
 
 `linux/chromium/recommended/02-titanium-recommended-chromium.json` -> `/etc/opt/chrome/policies/recommended/02-titanium-recommended-chromium.json`
 
+## Microsoft Edge (GNU/Linux)
+
+`linux/edge/managed/00-titanium-extensions-edge.json` -> `/etc/opt/edge/policies/managed/00-titanium-extensions-edge.json`
+
+`linux/managed/01-titanium-managed.json` -> `/etc/opt/edge/policies/managed/01-titanium-managed.json`
+
+`linux/recommended/00-titanium-cookies.json` -> `/etc/opt/edge/policies/recommended/00-titanium-cookies.json`
+
+`linux/recommended/01-titanium-recommended.json` -> `/etc/opt/edge/policies/recommended/01-titanium-recommended.json`
+
+`linux/edge/recommended/02-titanium-recommended-edge.json` -> `/etc/opt/edge/policies/recommended/02-titanium-recommended-edge.json`
+
 ## Trivalent (GNU/Linux)
 
 `linux/chromium/managed/00-titanium-extensions-chromium.json` -> `/etc/trivalent/policies/managed/00-titanium-extensions-chromium.json`
