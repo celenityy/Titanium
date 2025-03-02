@@ -11,7 +11,9 @@
 
 `linux/recommended/01-titanium-recommended.json` -> `/etc/brave/policies/recommended/01-titanium-recommended.json`
 
-`linux/brave/recommended/02-titanium-recommended-brave.json` -> `/etc/brave/policies/recommended/02-titanium-recommended-brave.json`
+`linux/recommended/02-titanium-ublock.json` -> `/etc/brave/policies/recommended/02-titanium-ublock.json`
+
+`linux/brave/recommended/03-titanium-recommended-brave.json` -> `/etc/brave/policies/recommended/03-titanium-recommended-brave.json`
 
 ## Chromium (GNU/Linux)
 
@@ -23,7 +25,9 @@
 
 `linux/recommended/01-titanium-recommended.json` -> `/etc/chromium/policies/recommended/01-titanium-recommended.json`
 
-`linux/chromium/recommended/02-titanium-recommended-chromium.json` -> `/etc/chromium/policies/recommended/02-titanium-recommended-chromium.json`
+`linux/recommended/02-titanium-ublock.json` -> `/etc/chromium/policies/recommended/02-titanium-ublock.json`
+
+`linux/chromium/recommended/03-titanium-recommended-chromium.json` -> `/etc/chromium/policies/recommended/03-titanium-recommended-chromium.json`
 
 ## Google Chrome (GNU/Linux)
 
@@ -35,7 +39,9 @@
 
 `linux/recommended/01-titanium-recommended.json` -> `/etc/opt/chrome/policies/recommended/01-titanium-recommended.json`
 
-`linux/chromium/recommended/02-titanium-recommended-chromium.json` -> `/etc/opt/chrome/policies/recommended/02-titanium-recommended-chromium.json`
+`linux/recommended/02-titanium-ublock.json` -> `/etc/opt/chrome/policies/recommended/02-titanium-ublock.json`
+
+`linux/chromium/recommended/03-titanium-recommended-chromium.json` -> `/etc/opt/chrome/policies/recommended/03-titanium-recommended-chromium.json`
 
 ## Microsoft Edge (GNU/Linux)
 
@@ -47,7 +53,9 @@
 
 `linux/recommended/01-titanium-recommended.json` -> `/etc/opt/edge/policies/recommended/01-titanium-recommended.json`
 
-`linux/edge/recommended/02-titanium-recommended-edge.json` -> `/etc/opt/edge/policies/recommended/02-titanium-recommended-edge.json`
+`linux/recommended/02-titanium-ublock.json` -> `/etc/opt/edge/policies/recommended/02-titanium-ublock.json`
+
+`linux/edge/recommended/03-titanium-recommended-edge.json` -> `/etc/opt/edge/policies/recommended/03-titanium-recommended-edge.json`
 
 ## Trivalent (GNU/Linux)
 
@@ -59,4 +67,6 @@
 
 `linux/recommended/01-titanium-recommended.json` -> `/etc/trivalent/policies/recommended/01-titanium-recommended.json`
 
-`linux/chromium/recommended/02-titanium-recommended-chromium.json` -> `/etc/trivalent/policies/recommended/02-titanium-recommended-chromium.json`
+`linux/recommended/02-titanium-ublock.json` -> `/etc/trivalent/policies/recommended/02-titanium-ublock.json`
+
+`linux/chromium/recommended/03-titanium-recommended-chromium.json` -> `/etc/trivalent/policies/recommended/03-titanium-recommended-chromium.json`

@@ -1,0 +1,43 @@
+{
+    "3rdparty": {
+        "extensions": {
+            "cjpalhdlnbpafiamejdnhcphjbkeiagm": {
+                "adminSettings": {
+                    "assetsBootstrapLocation": "https://codeberg.org/celenity/Titanium/raw/branch/pages/uBlock/assets.json"
+                },
+                "advancedSettings": [
+                    [
+                        "autoCommentFilterTemplate",
+                        "{{url}}"
+                    ],
+                    [
+                        "filterAuthorMode",
+                        "true"
+                    ],
+                    [
+                        "updateAssetBypassBrowserCache",
+                        "true"
+                    ]
+                ],
+                "userSettings": [
+                    [
+                        "advancedUserEnabled",
+                        "true"
+                    ],
+                    [
+                        "dynamicFilteringEnabled",
+                        "true"
+                    ],
+                    [
+                        "firewallPaneMinimized",
+                        "false"
+                    ],
+                    [
+                        "suspendUntilListsAreLoaded",
+                        "true"
+                    ]
+                ]
+            }
+        }
+    }
+}
