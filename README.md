@@ -5,6 +5,8 @@
 
 `linux/brave/managed/00-titanium-extensions-brave.json` -> `/etc/brave/policies/managed/00-titanium-extensions-brave.json`
 
+`linux/brave/managed/03-titanium-managed-brave.json` -> `/etc/brave/policies/managed/03-titanium-managed-brave.json`
+
 `linux/managed/01-titanium-managed.json` -> `/etc/brave/policies/managed/01-titanium-managed.json`
 
 `linux/managed/02-titanium-ublock.json` -> `/etc/brave/policies/managed/02-titanium-ublock.json`
