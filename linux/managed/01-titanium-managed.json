@@ -86,6 +86,7 @@
     "NTPCardsVisible": false,
     "NTPCustomBackgroundEnabled": true,
     "NTPMiddleSlotAnnouncementVisible": false,
+    "PartitionedBlobUrlUsage": true,
     "PasswordLeakDetectionEnabled": false,
     "PasswordSharingEnabled": false,
     "PaymentMethodQueryEnabled": false,
