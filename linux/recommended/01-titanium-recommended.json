@@ -12,7 +12,6 @@
     "AutoplayAllowed": false,
     "BackgroundModeEnabled": false,
     "BasicAuthOverHttpEnabled": false,
-    "BuiltInDnsClientEnabled": false,
     "ComponentUpdatesEnabled": true,
     "DataUrlInSvgUseEnabled": false,
     "DefaultGeolocationSetting": 2,
@@ -27,7 +26,6 @@
     "DefaultSearchProviderSuggestURL": "https://duckduckgo.com/ac/?q={searchTerms}&type=list",
     "Disable3DAPIs": true,
     "DNSInterceptionChecksEnabled": false,
-    "DnsOverHttpsMode": "off",
     "EnableAuthNegotiatePort": false,
     "EnableExperimentalPolicies": [
         "AutofillPredictionSettings",
