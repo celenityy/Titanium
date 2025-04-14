@@ -1,5 +1,6 @@
 {
     "BraveRewardsDisabled":true,
     "BraveVPNDisabled": true,
-    "BraveWalletDisabled": true
+    "BraveWalletDisabled": true,
+    "IPFSEnabled": false
 }
