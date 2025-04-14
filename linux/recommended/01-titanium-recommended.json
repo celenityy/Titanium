@@ -90,9 +90,5 @@
     "SuppressDifferentOriginSubframeDialogs": true,
     "UserAgentReduction": 2,
     "WebRtcIPHandling": "disable_non_proxied_udp",
-    "WebUsbAskForUrls": [
-        "https://flash.android.com",
-        "https://grapheneos.org/install/web"
-    ],
     "WindowOcclusionEnabled": true
 }

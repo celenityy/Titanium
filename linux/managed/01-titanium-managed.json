@@ -82,7 +82,6 @@
     "MediaRouterCastAllowAllIPs": false,
     "MediaRecommendationsEnabled": false,
     "MetricsReportingEnabled": false,
-    "NativeMessagingAllowlist": [ "com.8bit.bitwarden" ],
     "NativeMessagingBlocklist": [ "*" ],
     "NetworkPredictionOptions": 2,
     "NTPCardsVisible": false,

@@ -1,0 +1,3 @@
+{
+    "NativeMessagingAllowlist": [ "com.8bit.bitwarden" ]
+}
