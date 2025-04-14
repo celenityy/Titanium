@@ -47,7 +47,6 @@
     "DefaultWebHidGuardSetting": 2,
     "DefaultWebUsbGuardSetting": 2,
     "DefaultWindowManagementSetting": 2,
-    "DefaultWindowPlacementSetting": 2,
     "DevToolsGenAiSettings": 2,
     "DomainReliabilityAllowed": false,
     "EditBookmarksEnabled": true,

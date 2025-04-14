@@ -75,7 +75,6 @@
     "PrivateNetworkAccessRestrictionsEnabled": true,
     "PromptForDownloadLocation": true,
     "RelaunchNotification": 2,
-    "RendererAppContainerEnabled": true,
     "RequireOnlineRevocationChecksForLocalAnchors": true,
     "RestoreOnStartup": 5,
     "SafeBrowsingDeepScanningEnabled": false,
@@ -91,6 +90,5 @@
     "StrictMimetypeCheckForWorkerScriptsEnabled": true,
     "SuppressDifferentOriginSubframeDialogs": true,
     "UserAgentReduction": 2,
-    "WebRtcIPHandling": "disable_non_proxied_udp",
-    "WindowOcclusionEnabled": true
+    "WebRtcIPHandling": "disable_non_proxied_udp"
 }
