@@ -4,6 +4,7 @@
     "AllowBackForwardCacheForCacheControlNoStorePageEnabled": false,
     "AllowCrossOriginAuthPrompt": false,
     "AllowWebAuthnWithBrokenTlsCerts": false,
+    "AlwaysOpenPdfExternally": true,
     "AudioSandboxEnabled": true,
     "AuthServerAllowlist": "",
     "AutoFillEnabled": false,
