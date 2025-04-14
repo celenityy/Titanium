@@ -34,6 +34,7 @@
     "CreateThemesSettings": 2,
     "DefaultBrowserSettingEnabled": false,
     "DefaultClipboardSetting": 2,
+    "DefaultControlledFrameSetting": 2,
     "DefaultDirectSocketsPrivateNetworkAccessSetting": 2,
     "DefaultDirectSocketsSetting": 2,
     "DefaultFileSystemReadGuardSetting": 2,
