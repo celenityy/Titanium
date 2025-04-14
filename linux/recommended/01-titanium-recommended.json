@@ -36,6 +36,8 @@
         "DefaultDirectSocketsPrivateNetworkAccessSetting",
         "DefaultDirectSocketsSetting",
         "ForceBrowserSignin",
+        "GeminiSettings",
+        "GenAiLensOverlaySettings",
         "PolicyTestPageEnabled",
         "PrivacySandboxFingerprintingProtectionEnabled",
         "ReportExtensionsAndPluginsData",
@@ -71,9 +73,12 @@
     "NtlmV2Enabled": false,
     "PasswordManagerEnabled": false,
     "PasswordManagerPasskeysEnabled": false,
+    "PdfViewerOutOfProcessIframeEnabled": true,
     "PolicyTestPageEnabled": true,
     "PostQuantumKeyAgreementEnabled": true,
     "PrivateNetworkAccessRestrictionsEnabled": true,
+    "ProfilePickerOnStartupAvailability": 0,
+    "ProfileSeparationDataMigrationSettings": 1,
     "PromptForDownloadLocation": true,
     "RelaunchNotification": 2,
     "RequireOnlineRevocationChecksForLocalAnchors": true,
@@ -91,5 +96,6 @@
     "StrictMimetypeCheckForWorkerScriptsEnabled": true,
     "SuppressDifferentOriginSubframeDialogs": true,
     "UserAgentReduction": 2,
+    "UserDataSnapshotRetentionLimit": 0,
     "WebRtcIPHandling": "disable_non_proxied_udp"
 }
