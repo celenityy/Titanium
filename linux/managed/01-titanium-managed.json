@@ -87,6 +87,8 @@
     "NTPCardsVisible": false,
     "NTPCustomBackgroundEnabled": true,
     "NTPMiddleSlotAnnouncementVisible": false,
+    "NTPOutlookCardVisible": false,
+    "NTPSharepointCardVisible": false,
     "PartitionedBlobUrlUsage": true,
     "PasswordLeakDetectionEnabled": false,
     "PasswordSharingEnabled": false,
