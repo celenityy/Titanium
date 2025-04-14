@@ -25,7 +25,6 @@
     "DefaultSearchProviderName": "DuckDuckGo",
     "DefaultSearchProviderSearchURL": "https://duckduckgo.com/?q={searchTerms}",
     "DefaultSearchProviderSuggestURL": "https://duckduckgo.com/ac/?q={searchTerms}&type=list",
-    "Disable3DAPIs": true,
     "DiskCacheDir": "/dev/null",
     "DNSInterceptionChecksEnabled": false,
     "EnableAuthNegotiatePort": false,
