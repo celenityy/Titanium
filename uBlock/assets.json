@@ -1163,7 +1163,7 @@
     },
     "webgpu": {
         "content": "filters",
-        "group": "multipurpose",
+        "group": "default",
         "parent": "🛡️ Block WebGPU",
         "title": "🛡️ Block WebGPU",
         "tags": "privacy security",
@@ -1173,7 +1173,7 @@
     },
     "webgpu-unbreak": {
         "content": "filters",
-        "group": "multipurpose",
+        "group": "default",
         "parent": "🛡️ Block WebGPU",
         "title": "🛡️ Block WebGPU - Unbreak",
         "tags": "privacy security",
