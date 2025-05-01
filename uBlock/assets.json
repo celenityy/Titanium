@@ -999,6 +999,14 @@
         "contentURL": "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/gambling.txt",
         "supportURL": "https://github.com/hagezi/dns-blocklists/issues"
     },
+    "gpc": {
+        "content": "filters",
+        "group": "default",
+        "title": "🛡️ Enable Global Privacy Control",
+        "contentURL": "https://gitlab.com/celenityy/BadBlock/-/raw/083bb51e1d9f0c9543e84d397802a9bce6d25056/hardened/enable-gpc.txt",
+        "supportURL": "https://badblock.celenity.dev/issues",
+        "instructionURL": "https://codeberg.org/celenity/BadBlock/src/branch/pages/hardened"
+    },
     "fmhyplus": {
         "content": "filters",
         "group": "malware",

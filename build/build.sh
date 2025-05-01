@@ -4,7 +4,7 @@ jq -s '.[0] * .[1]' build/extensions.json build/blocklist.json > build/00-titani
 
 cp build/00-titanium-extensions.json linux/brave/managed/00-titanium-extensions-brave.json
 
-jq -s '.[0] * .[1]' build/00-titanium-extensions.json build/optmeowt.json > linux/chromium/managed/00-titanium-extensions-chromium.json
+jq -s '.[0] * .[1]' build/00-titanium-extensions.json > linux/chromium/managed/00-titanium-extensions-chromium.json
 
 jq -s '.[0] * .[1]' linux/chromium/managed/00-titanium-extensions-chromium.json build/edge-install-source.json > linux/edge/managed/00-titanium-extensions-edge.json
 
