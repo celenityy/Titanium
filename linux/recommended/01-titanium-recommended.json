@@ -76,6 +76,7 @@
     "PdfViewerOutOfProcessIframeEnabled": true,
     "PolicyTestPageEnabled": true,
     "PostQuantumKeyAgreementEnabled": true,
+    "PrefetchWithServiceWorkerEnabled": false,
     "PrivateNetworkAccessRestrictionsEnabled": true,
     "ProfilePickerOnStartupAvailability": 0,
     "ProfileSeparationDataMigrationSettings": 1,
