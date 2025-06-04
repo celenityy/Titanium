@@ -81,6 +81,9 @@
     "ProfilePickerOnStartupAvailability": 0,
     "ProfileSeparationDataMigrationSettings": 1,
     "PromptForDownloadLocation": true,
+    "ProxySettings": {
+        "ProxyMode": "direct"
+    },
     "ReduceAcceptLanguageEnabled": true,
     "RelaunchNotification": 2,
     "RequireOnlineRevocationChecksForLocalAnchors": true,
