@@ -80,6 +80,7 @@
     "ProfilePickerOnStartupAvailability": 0,
     "ProfileSeparationDataMigrationSettings": 1,
     "PromptForDownloadLocation": true,
+    "ReduceAcceptLanguageEnabled": true,
     "RelaunchNotification": 2,
     "RequireOnlineRevocationChecksForLocalAnchors": true,
     "RestoreOnStartup": 5,
