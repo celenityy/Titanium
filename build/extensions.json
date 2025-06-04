@@ -2,29 +2,31 @@
     "ExtensionSettings": {
         "*": {
             "blocked_install_message": "I am Iron Man.",
-            "install_sources": [
-                "https://chromewebstore.google.com/*"
-            ]
+            "override_update_url": true,
+            "update_url": "https://extensionupdater.brave.com/service/update2/crx"
         },
         "lkbebcjgcmobigpeffafkodonchffocl": {
             "blocked_install_message": "Bypass Paywalls Clean",
             "file_url_navigation_allowed": false,
             "installation_mode": "allowed",
+            "override_update_url": false,
             "toolbar_pin": "default_unpinned"
         },
         "oemmndcbldboiebfnladdacbdfmadadm": {
             "blocked_install_message": "PDF Viewer (PDF.js)",
             "file_url_navigation_allowed": true,
             "installation_mode": "normal_installed",
+            "override_update_url": true,
             "toolbar_pin": "default_unpinned",
-            "update_url": "https://clients2.google.com/service/update2/crx"
+            "update_url": "https://extensionupdater.brave.com/service/update2/crx"
         },
         "cjpalhdlnbpafiamejdnhcphjbkeiagm": {
             "blocked_install_message": "uBlock Origin",
             "file_url_navigation_allowed": false,
             "installation_mode": "normal_installed",
+            "override_update_url": true,
             "toolbar_pin": "force_pinned",
-            "update_url": "https://clients2.google.com/service/update2/crx"
+            "update_url": "https://extensionupdater.brave.com/service/update2/crx"
         }
     }
 }
