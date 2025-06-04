@@ -144,6 +144,8 @@
     "UrlKeyedAnonymizedDataCollectionEnabled": false,
     "UrlKeyedMetricsAllowed": false,
     "UserFeedbackAllowed": false,
+    "UserSecurityAuthenticatedReporting": false,
+    "UserSecuritySignalsReporting": false,
     "WebAuthenticationRemoteProxiedRequestsAllowed": false,
     "WebRtcEventLogCollectionAllowed": false,
     "WebRtcTextLogCollectionAllowed": false
