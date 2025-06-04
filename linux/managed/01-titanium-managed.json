@@ -13,6 +13,7 @@
     "BrowserNetworkTimeQueriesEnabled": false,
     "BrowserSignin": 0,
     "BrowserSwitcherEnabled": false,
+    "BuiltInAIAPIsEnabled": false,
     "CACertificateManagementAllowed": 0,
     "CAPlatformIntegrationEnabled": false,
     "ChromeDataRegionSetting": 2,
