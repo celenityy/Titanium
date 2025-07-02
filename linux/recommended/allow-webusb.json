@@ -1,6 +1,7 @@
 {
     "WebUsbAskForUrls": [
         "https://flash.android.com",
-        "https://grapheneos.org/install/web"
+        "https://grapheneos.org/install/web",
+        "https://install.calyxos.org"
     ]
 }
