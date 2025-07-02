@@ -1,3 +1,9 @@
 {
-    "NativeMessagingAllowlist": [ "com.8bit.bitwarden" ]
+    "NativeMessagingAllowlist": [
+        "com.8bit.bitwarden",
+        "org.mozilla.firefox_bridge_nmh",
+        "org.mozilla.firefox_bridge_nmh_dev",
+        "org.mozilla.firefox_bridge_nmh_esr",
+        "org.mozilla.firefox_bridge_nmh_nightly"
+    ]
 }
