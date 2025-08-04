@@ -1,6 +1,10 @@
 {
-    "BraveRewardsDisabled":true,
+    "BraveP3ADisabled": true,
+    "BraveRewardsDisabled": true,
+    "BraveStatsPingDisabled": true,
+    "BraveTalkDisabled": true,
     "BraveVPNDisabled": true,
     "BraveWalletDisabled": true,
+    "BraveWebDiscoveryDisabled": true,
     "IPFSEnabled": false
 }
