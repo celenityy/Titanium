@@ -13,72 +13,170 @@ Titanium is a set of enterprise policies for Chromium-based web browsers, design
 
 ## Brave (GNU/Linux)
 
-`linux/brave/managed/00-titanium-extensions-brave.json` -> `/etc/brave/policies/managed/00-titanium-extensions-brave.json`
+`linux/brave/managed/99-titanium-managed-brave.json` -> `/etc/brave/policies/managed/99-titanium-managed-brave.json`
 
-`linux/brave/managed/03-titanium-managed-brave.json` -> `/etc/brave/policies/managed/03-titanium-managed-brave.json`
+`linux/brave/recommended/99-titanium-recommended-brave.json` -> `/etc/brave/policies/recommended/99-titanium-recommended-brave.json`
 
-`linux/managed/01-titanium-managed.json` -> `/etc/brave/policies/managed/01-titanium-managed.json`
+`linux/managed/00-titanium-managed.json` -> `/etc/brave/policies/managed/00-titanium-managed.json`
 
-`linux/managed/02-titanium-ublock.json` -> `/etc/brave/policies/managed/02-titanium-ublock.json`
+`linux/managed/01-titanium-extensions.json` -> `/etc/brave/policies/managed/01-titanium-extensions.json`
 
-`linux/recommended/00-titanium-cookies.json` -> `/etc/brave/policies/recommended/00-titanium-cookies.json`
+`linux/managed/02-titanium-extension-settings.json` -> `/etc/brave/policies/managed/02-titanium-extension-settings.json`
 
-`linux/recommended/01-titanium-recommended.json` -> `/etc/brave/policies/recommended/01-titanium-recommended.json`
+`linux/recommended/00-titanium-recommended.json` -> `/etc/brave/policies/recommended/00-titanium-recommended.json`
 
-`linux/brave/recommended/02-titanium-recommended-brave.json` -> `/etc/brave/policies/recommended/02-titanium-recommended-brave.json`
+`linux/recommended/01-titanium-cookies.json` -> `/etc/brave/policies/recommended/01-titanium-cookies.json`
+
+### Optional
+
+Block all extensions *(This does NOT include `PDF.js` or `uBlock Origin`, but you can disable those if desired from [`chrome://extensions/`](chrome://extensions/))*:
+
+`linux/managed/99-titanium-optional-extensions-block.json` -> `/etc/brave/policies/managed/99-titanium-optional-extensions-block.json`
+
+Allow installation of certain trustworthy extensions *(Especially useful when extensions are blocked, but this also allows the installation of `Bypass Paywalls Clean`, which is unavailable from the Chrome Webstore - so this can also be useful even when extensions aren't blocked)*:
+
+`linux/managed/99-titanium-optional-extensions-allow.json` -> `/etc/brave/policies/managed/99-titanium-optional-extensions-allow.json`
+
+Unbreak Bitwarden's Biometric authentication and Firefox Bridge:
+
+`linux/recommended/99-titanium-optional-native-messaging-allow.json` -> `/etc/brave/policies/recommended/99-titanium-optional-native-messaging-allow.json`
+
+Unbreak `https://flash.android.com`, `https://grapheneos.org/install/web`, and `https://install.calyxos.org`:
+
+`linux/recommended/99-titanium-optional-webusb-allow.json` -> `/etc/brave/policies/recommended/99-titanium-optional-webusb-allow.json`
 
 ## Chromium (GNU/Linux)
 
-`linux/chromium/managed/00-titanium-extensions-chromium.json` -> `/etc/chromium/policies/managed/00-titanium-extensions-chromium.json`
+`linux/chromium/managed/99-titanium-managed-chromium.json` -> `/etc/chromium/policies/managed/99-titanium-managed-chromium.json`
 
-`linux/managed/01-titanium-managed.json` -> `/etc/chromium/policies/managed/01-titanium-managed.json`
+`linux/chromium/recommended/99-titanium-recommended-chromium.json` -> `/etc/chromium/policies/recommended/99-titanium-recommended-chromium.json`
 
-`linux/managed/02-titanium-ublock.json` -> `/etc/chromium/policies/managed/02-titanium-ublock.json`
+`linux/managed/00-titanium-managed.json` -> `/etc/brave/policies/managed/00-titanium-managed.json`
 
-`linux/recommended/00-titanium-cookies.json` -> `/etc/chromium/policies/recommended/00-titanium-cookies.json`
+`linux/managed/01-titanium-extensions.json` -> `/etc/chromium/policies/managed/01-titanium-extensions.json`
 
-`linux/recommended/01-titanium-recommended.json` -> `/etc/chromium/policies/recommended/01-titanium-recommended.json`
+`linux/managed/02-titanium-extension-settings.json` -> `/etc/chromium/policies/managed/02-titanium-extension-settings.json`
 
-`linux/chromium/recommended/02-titanium-recommended-chromium.json` -> `/etc/chromium/policies/recommended/02-titanium-recommended-chromium.json`
+`linux/recommended/00-titanium-recommended.json` -> `/etc/chromium/policies/recommended/00-titanium-recommended.json`
+
+`linux/recommended/01-titanium-cookies.json` -> `/etc/chromium/policies/recommended/01-titanium-cookies.json`
+
+### Optional
+
+Block all extensions *(This does NOT include `PDF.js` or `uBlock Origin`, but you can disable those if desired from [`chrome://extensions/`](chrome://extensions/))*:
+
+`linux/managed/99-titanium-optional-extensions-block.json` -> `/etc/chromium/policies/managed/99-titanium-optional-extensions-block.json`
+
+Allow installation of certain trustworthy extensions *(Especially useful when extensions are blocked, but this also allows the installation of `Bypass Paywalls Clean`, which is unavailable from the Chrome Webstore - so this can also be useful even when extensions aren't blocked)*:
+
+`linux/managed/99-titanium-optional-extensions-allow.json` -> `/etc/chromium/policies/managed/99-titanium-optional-extensions-allow.json`
+
+Unbreak Bitwarden's Biometric authentication and Firefox Bridge:
+
+`linux/recommended/99-titanium-optional-native-messaging-allow.json` -> `/etc/chromium/policies/recommended/99-titanium-optional-native-messaging-allow.json`
+
+Unbreak `https://flash.android.com`, `https://grapheneos.org/install/web`, and `https://install.calyxos.org`:
+
+`linux/recommended/99-titanium-optional-webusb-allow.json` -> `/etc/chromium/policies/recommended/99-titanium-optional-webusb-allow.json`
 
 ## Google Chrome (GNU/Linux)
 
-`linux/chromium/managed/00-titanium-extensions-chromium.json` -> `/etc/opt/chrome/policies/managed/00-titanium-extensions-chromium.json`
+`linux/chromium/managed/99-titanium-managed-chromium.json` -> `/etc/chromium/policies/managed/99-titanium-managed-chromium.json`
 
-`linux/managed/01-titanium-managed.json` -> `/etc/opt/chrome/policies/managed/01-titanium-managed.json`
+`linux/chromium/recommended/99-titanium-recommended-chromium.json` -> `/etc/opt/chrome/policies/recommended/99-titanium-recommended-chromium.json`
 
-`linux/managed/02-titanium-ublock.json` -> `/etc/opt/chrome/policies/managed/02-titanium-ublock.json`
+`linux/managed/00-titanium-managed.json` -> `/etc/opt/chrome/policies/managed/00-titanium-managed.json`
 
-`linux/recommended/00-titanium-cookies.json` -> `/etc/opt/chrome/policies/recommended/00-titanium-cookies.json`
+`linux/managed/01-titanium-extensions.json` -> `/etc/opt/chrome/policies/managed/01-titanium-extensions.json`
 
-`linux/recommended/01-titanium-recommended.json` -> `/etc/opt/chrome/policies/recommended/01-titanium-recommended.json`
+`linux/managed/02-titanium-extension-settings.json` -> `/etc/opt/chrome/policies/managed/02-titanium-extension-settings.json`
 
-`linux/chromium/recommended/02-titanium-recommended-chromium.json` -> `/etc/opt/chrome/policies/recommended/02-titanium-recommended-chromium.json`
+`linux/recommended/00-titanium-recommended.json` -> `/etc/opt/chrome/policies/recommended/00-titanium-recommended.json`
+
+`linux/recommended/01-titanium-cookies.json` -> `/etc/opt/chrome/policies/recommended/01-titanium-cookies.json`
+
+### Optional
+
+Block all extensions *(This does NOT include `PDF.js` or `uBlock Origin`, but you can disable those if desired from [`chrome://extensions/`](chrome://extensions/))*:
+
+`linux/managed/99-titanium-optional-extensions-block.json` -> `/etc/opt/chrome/policies/managed/99-titanium-optional-extensions-block.json`
+
+Allow installation of certain trustworthy extensions *(Especially useful when extensions are blocked, but this also allows the installation of `Bypass Paywalls Clean`, which is unavailable from the Chrome Webstore - so this can also be useful even when extensions aren't blocked)*:
+
+`linux/managed/99-titanium-optional-extensions-allow.json` -> `/etc/opt/chrome/policies/managed/99-titanium-optional-extensions-allow.json`
+
+Unbreak Bitwarden's Biometric authentication and Firefox Bridge:
+
+`linux/recommended/99-titanium-optional-native-messaging-allow.json` -> `/etc/opt/chrome/policies/recommended/99-titanium-optional-native-messaging-allow.json`
+
+Unbreak `https://flash.android.com`, `https://grapheneos.org/install/web`, and `https://install.calyxos.org`:
+
+`linux/recommended/99-titanium-optional-webusb-allow.json` -> `/etc/opt/chrome/policies/recommended/99-titanium-optional-webusb-allow.json`
 
 ## Microsoft Edge (GNU/Linux)
 
-`linux/edge/managed/00-titanium-extensions-edge.json` -> `/etc/opt/edge/policies/managed/00-titanium-extensions-edge.json`
+`linux/edge/managed/99-titanium-managed-edge.json` -> `/etc/opt/edge/policies/managed/99-titanium-managed-edge.json`
 
-`linux/managed/01-titanium-managed.json` -> `/etc/opt/edge/policies/managed/01-titanium-managed.json`
+`linux/edge/recommended/99-titanium-recommended-edge.json` -> `/etc/opt/edge/policies/recommended/99-titanium-recommended-edge.json`
 
-`linux/managed/02-titanium-ublock.json` -> `/etc/opt/edge/policies/managed/02-titanium-ublock.json`
+`linux/managed/00-titanium-managed.json` -> `/etc/opt/edge/policies/managed/00-titanium-managed.json`
 
-`linux/recommended/00-titanium-cookies.json` -> `/etc/opt/edge/policies/recommended/00-titanium-cookies.json`
+`linux/managed/01-titanium-extensions.json` -> `/etc/opt/edge/policies/managed/01-titanium-extensions.json`
 
-`linux/recommended/01-titanium-recommended.json` -> `/etc/opt/edge/policies/recommended/01-titanium-recommended.json`
+`linux/managed/02-titanium-extension-settings.json` -> `/etc/opt/edge/policies/managed/02-titanium-extension-settings.json`
 
-`linux/edge/recommended/02-titanium-recommended-edge.json` -> `/etc/opt/edge/policies/recommended/02-titanium-recommended-edge.json`
+`linux/recommended/00-titanium-recommended.json` -> `/etc/opt/edge/policies/recommended/00-titanium-recommended.json`
+
+`linux/recommended/01-titanium-cookies.json` -> `/etc/opt/edge/policies/recommended/01-titanium-cookies.json`
+
+### Optional
+
+Block all extensions *(This does NOT include `PDF.js` or `uBlock Origin`, but you can disable those if desired from [`chrome://extensions/`](chrome://extensions/))*:
+
+`linux/managed/99-titanium-optional-extensions-block.json` -> `/etc/opt/edge/policies/managed/99-titanium-optional-extensions-block.json`
+
+Allow installation of certain trustworthy extensions *(Especially useful when extensions are blocked, but this also allows the installation of `Bypass Paywalls Clean`, which is unavailable from the Chrome Webstore - so this can also be useful even when extensions aren't blocked)*:
+
+`linux/managed/99-titanium-optional-extensions-allow.json` -> `/etc/opt/edge/policies/managed/99-titanium-optional-extensions-allow.json`
+
+Unbreak Bitwarden's Biometric authentication and Firefox Bridge:
+
+`linux/recommended/99-titanium-optional-native-messaging-allow.json` -> `/etc/opt/edge/policies/recommended/99-titanium-optional-native-messaging-allow.json`
+
+Unbreak `https://flash.android.com`, `https://grapheneos.org/install/web`, and `https://install.calyxos.org`:
+
+`linux/recommended/99-titanium-optional-webusb-allow.json` -> `/etc/opt/edge/policies/recommended/99-titanium-optional-webusb-allow.json`
 
 ## Trivalent (GNU/Linux)
 
-`linux/chromium/managed/00-titanium-extensions-chromium.json` -> `/etc/trivalent/policies/managed/00-titanium-extensions-chromium.json`
+`linux/chromium/managed/99-titanium-managed-chromium.json` -> `/etc/trivalent/policies/managed/99-titanium-managed-chromium.json`
 
-`linux/managed/01-titanium-managed.json` -> `/etc/trivalent/policies/managed/01-titanium-managed.json`
+`linux/chromium/recommended/99-titanium-recommended-chromium.json` -> `/etc/trivalent/policies/recommended/99-titanium-recommended-chromium.json`
 
-`linux/managed/02-titanium-ublock.json` -> `/etc/trivalent/policies/managed/02-titanium-ublock.json`
+`linux/managed/00-titanium-managed.json` -> `/etc/trivalent/policies/managed/00-titanium-managed.json`
 
-`linux/recommended/00-titanium-cookies.json` -> `/etc/trivalent/policies/recommended/00-titanium-cookies.json`
+`linux/managed/01-titanium-extensions.json` -> `/etc/trivalent/policies/managed/01-titanium-extensions.json`
 
-`linux/recommended/01-titanium-recommended.json` -> `/etc/trivalent/policies/recommended/01-titanium-recommended.json`
+`linux/managed/02-titanium-extension-settings.json` -> `/etc/trivalent/policies/managed/02-titanium-extension-settings.json`
 
-`linux/chromium/recommended/02-titanium-recommended-chromium.json` -> `/etc/trivalent/policies/recommended/02-titanium-recommended-chromium.json`
+`linux/recommended/00-titanium-recommended.json` -> `/etc/trivalent/policies/recommended/00-titanium-recommended.json`
+
+`linux/recommended/01-titanium-cookies.json` -> `/etc/trivalent/policies/recommended/01-titanium-cookies.json`
+
+### Optional
+
+Block all extensions *(This does NOT include `PDF.js` or `uBlock Origin`, but you can disable those if desired from [`chrome://extensions/`](chrome://extensions/))*:
+
+`linux/managed/99-titanium-optional-extensions-block.json` -> `/etc/trivalent/policies/managed/99-titanium-optional-extensions-block.json`
+
+Allow installation of certain trustworthy extensions *(Especially useful when extensions are blocked, but this also allows the installation of `Bypass Paywalls Clean`, which is unavailable from the Chrome Webstore - so this can also be useful even when extensions aren't blocked)*:
+
+`linux/managed/99-titanium-optional-extensions-allow.json` -> `/etc/trivalent/policies/managed/99-titanium-optional-extensions-allow.json`
+
+Unbreak Bitwarden's Biometric authentication and Firefox Bridge:
+
+`linux/recommended/99-titanium-optional-native-messaging-allow.json` -> `/etc/trivalent/policies/recommended/99-titanium-optional-native-messaging-allow.json`
+
+Unbreak `https://flash.android.com`, `https://grapheneos.org/install/web`, and `https://install.calyxos.org`:
+
+`linux/recommended/99-titanium-optional-webusb-allow.json` -> `/etc/trivalent/policies/recommended/99-titanium-optional-webusb-allow.json`

@@ -1,16 +1,7 @@
 {
     "ExtensionSettings": {
         "*": {
-            "blocked_install_message": "I am Iron Man.",
-            "override_update_url": true,
-            "update_url": "https://extensionupdater.brave.com/service/update2/crx"
-        },
-        "lkbebcjgcmobigpeffafkodonchffocl": {
-            "blocked_install_message": "Bypass Paywalls Clean",
-            "file_url_navigation_allowed": false,
-            "installation_mode": "allowed",
-            "override_update_url": false,
-            "toolbar_pin": "default_unpinned"
+            "blocked_install_message": "I am Iron Man."
         },
         "oemmndcbldboiebfnladdacbdfmadadm": {
             "blocked_install_message": "PDF Viewer (PDF.js)",
