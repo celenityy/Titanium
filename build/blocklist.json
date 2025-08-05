@@ -1,7 +1,87 @@
 {
     "ExtensionSettings": {
+        "fellaebeeieagcalnmmpapfioejgihci": {
+            "blocked_install_message": "App Provisioning",
+            "file_url_navigation_allowed": false,
+            "installation_mode": "blocked"
+        },
+        "imneddfbdipbgilndpnagjdolfgbbkdn": {
+            "blocked_install_message": "Chrome App Deprecation Allowlist",
+            "file_url_navigation_allowed": false,
+            "installation_mode": "blocked"
+        },
         "inomeogfingihgjfjlpeplalcfajhgai": {
-            "blocked_install_message": "Chrome Remote Desktop: https://chromewebstore.google.com/detail/chrome-remote-desktop/inomeogfingihgjfjlpeplalcfajhgai",
+            "blocked_install_message": "Chrome Remote Desktop: https://chromewebstore.google.com/detail/inomeogfingihgjfjlpeplalcfajhgai",
+            "file_url_navigation_allowed": false,
+            "installation_mode": "blocked"
+        },
+        "lbimbicckdokpoicboneldipejkhjgdg": {
+            "blocked_install_message": "Chrome TranslateKit",
+            "file_url_navigation_allowed": false,
+            "installation_mode": "blocked"
+        },
+        "mhjfbmdgcfjbbpaeojofohoefgiehjai": {
+            "blocked_install_message": "Chromium PDF Viewer",
+            "file_url_navigation_allowed": false,
+            "installation_mode": "blocked"
+        },
+        "cocncanleafgejenidihemfflagifjic": {
+            "blocked_install_message": "Commerce Heuristics",
+            "file_url_navigation_allowed": false,
+            "installation_mode": "blocked"
+        },
+        "ghbmnnjooekpmoecnnnilnnbdlolhkhi": {
+            "blocked_install_message": "Google Docs Offline: https://chromewebstore.google.com/detail/ghbmnnjooekpmoecnnnilnnbdlolhkhi",
+            "file_url_navigation_allowed": false,
+            "installation_mode": "blocked"
+        },
+        "neifaoindggfcjicffkgpmnlppeffabd": {
+            "blocked_install_message": "Media Foundation Widevine CDM",
+            "file_url_navigation_allowed": false,
+            "installation_mode": "blocked"
+        },
+        "fklghjjljmnfjoepjmlobpekiapffcja": {
+            "blocked_install_message": "Optimization Guide On Device Model",
+            "file_url_navigation_allowed": false,
+            "installation_mode": "blocked"
+        },
+        "llkgjffcdpffmhiakmfcdcblohccpfmo": {
+            "blocked_install_message": "Origin Trials",
+            "file_url_navigation_allowed": false,
+            "installation_mode": "blocked"
+        },
+        "niikhdgajlphfehepabhhblakbdgeefj": {
+            "blocked_install_message": "Privacy Sandbox Attestations",
+            "file_url_navigation_allowed": false,
+            "installation_mode": "blocked"
+        },
+        "aagaghndoahmfdbmfnajfklaomcanlnh": {
+            "blocked_install_message": "Real Time Url Checks Allowlist",
+            "file_url_navigation_allowed": false,
+            "installation_mode": "blocked"
+        },
+        "gonpemdgkjcecdgbnaabipppbmgfggbe": {
+            "blocked_install_message": "Related Website Sets",
+            "file_url_navigation_allowed": false,
+            "installation_mode": "blocked"
+        },
+        "jflookgnkcckhobaglndicnbbgbonegd": {
+            "blocked_install_message": "Safety Tips",
+            "file_url_navigation_allowed": false,
+            "installation_mode": "blocked"
+        },
+        "mfhmdacoffpmifoibamicehhklffanao": {
+            "blocked_install_message": "ScreenAI Library",
+            "file_url_navigation_allowed": false,
+            "installation_mode": "blocked"
+        },
+        "bjbcblmdcnggnibecjikpoljcgkbgphl": {
+            "blocked_install_message": "WASM TTS Engine",
+            "file_url_navigation_allowed": false,
+            "installation_mode": "blocked"
+        },
+        "oimompecagnajdejgnnjijobebaeigek": {
+            "blocked_install_message": "Widevine Content Decryption Module",
             "file_url_navigation_allowed": false,
             "installation_mode": "blocked"
         }
