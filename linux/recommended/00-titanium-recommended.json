@@ -86,6 +86,7 @@
     "ProxySettings": {
         "ProxyMode": "direct"
     },
+    "QuicAllowed": true,
     "ReduceAcceptLanguageEnabled": true,
     "RelaunchNotification": 2,
     "RequireOnlineRevocationChecksForLocalAnchors": true,
