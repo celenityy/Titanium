@@ -147,6 +147,7 @@
     "SpellCheckServiceEnabled": false,
     "SyncDisabled": true,
     "TabCompareSettings": 2,
+    "TabGroupSharingSettings": 1,
     "TaskManagerEndProcessEnabled": true,
     "TranslatorAPIAllowed": false,
     "UnmanagedDeviceSignalsConsentFlowEnabled": false,
