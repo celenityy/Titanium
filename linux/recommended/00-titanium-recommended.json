@@ -49,6 +49,7 @@
         "UrlKeyedMetricsAllowed"
     ],
     "EnableOnlineRevocationChecks": true,
+    "EnableUnsafeSwiftShader": false,
     "EncryptedClientHelloEnabled": true,
     "EnterpriseProfileCreationKeepBrowsingData": false,
     "ForcePermissionPolicyUnloadDefaultEnabled": false,
