@@ -79,6 +79,7 @@
     "PolicyTestPageEnabled": true,
     "PostQuantumKeyAgreementEnabled": true,
     "PrefetchWithServiceWorkerEnabled": false,
+    "PrivacySandboxIpProtectionEnabled": true,
     "ProfilePickerOnStartupAvailability": 0,
     "ProfileSeparationDataMigrationSettings": 1,
     "PromptForDownloadLocation": true,
