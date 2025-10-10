@@ -1,10 +1,9 @@
 {
-    "BraveP3ADisabled": true,
+    "BraveP3AEnabled": false,
     "BraveRewardsDisabled": true,
-    "BraveStatsPingDisabled": true,
+    "BraveStatsPingEnabled": false,
     "BraveTalkDisabled": true,
     "BraveVPNDisabled": true,
     "BraveWalletDisabled": true,
-    "BraveWebDiscoveryDisabled": true,
-    "IPFSEnabled": false
+    "BraveWebDiscoveryEnabled": false
 }
