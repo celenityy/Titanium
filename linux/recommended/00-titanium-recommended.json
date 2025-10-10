@@ -73,6 +73,7 @@
     "NetworkServiceSandboxEnabled": true,
     "OopPrintDriversAllowed": true,
     "OriginAgentClusterDefaultEnabled": true,
+    "OriginKeyedProcessesEnabled": true,
     "OutOfProcessSystemDnsResolutionEnabled": true,
     "PasswordManagerEnabled": false,
     "PasswordManagerPasskeysEnabled": false,
