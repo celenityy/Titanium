@@ -6,6 +6,7 @@
     "AllowDeletingBrowserHistory": true,
     "AlternateErrorPagesEnabled": false,
     "AutofillPredictionSettings": 2,
+    "AutomatedPasswordChangeSettings": 2,
     "BlockExternalExtensions": true,
     "BlockThirdPartyCookies": true,
     "BrowserAddPersonEnabled": true,
