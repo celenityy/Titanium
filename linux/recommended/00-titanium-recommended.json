@@ -107,5 +107,6 @@
     "TLS13EarlyDataEnabled": false,
     "UserAgentReduction": 2,
     "UserDataSnapshotRetentionLimit": 0,
-    "WebRtcIPHandling": "disable_non_proxied_udp"
+    "WebRtcIPHandling": "disable_non_proxied_udp",
+    "WebRtcPostQuantumKeyAgreement": true
 }
