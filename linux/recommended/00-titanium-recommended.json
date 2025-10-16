@@ -81,6 +81,7 @@
     "PolicyTestPageEnabled": true,
     "PostQuantumKeyAgreementEnabled": true,
     "PrefetchWithServiceWorkerEnabled": false,
+    "PrivacySandboxFingerprintingProtectionEnabled": true,
     "PrivacySandboxIpProtectionEnabled": true,
     "ProfilePickerOnStartupAvailability": 0,
     "ProfileSeparationDataMigrationSettings": 1,
