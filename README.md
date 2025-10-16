@@ -41,7 +41,7 @@ Unbreak Bitwarden's Biometric authentication and Firefox Bridge:
 
 `linux/recommended/99-titanium-optional-native-messaging-allow.json` -> `/etc/brave/policies/recommended/99-titanium-optional-native-messaging-allow.json`
 
-Unbreak `https://flash.android.com`, `https://grapheneos.org/install/web`, and `https://install.calyxos.org`:
+Unbreak `https://grapheneos.org/install/web`:
 
 `linux/recommended/99-titanium-optional-webusb-allow.json` -> `/etc/brave/policies/recommended/99-titanium-optional-webusb-allow.json`
 
@@ -77,7 +77,7 @@ Unbreak Bitwarden's Biometric authentication and Firefox Bridge:
 
 `linux/recommended/99-titanium-optional-native-messaging-allow.json` -> `/etc/chromium/policies/recommended/99-titanium-optional-native-messaging-allow.json`
 
-Unbreak `https://flash.android.com`, `https://grapheneos.org/install/web`, and `https://install.calyxos.org`:
+Unbreak `https://grapheneos.org/install/web`:
 
 `linux/recommended/99-titanium-optional-webusb-allow.json` -> `/etc/chromium/policies/recommended/99-titanium-optional-webusb-allow.json`
 
@@ -111,6 +111,6 @@ Unbreak Bitwarden's Biometric authentication and Firefox Bridge:
 
 `linux/recommended/99-titanium-optional-native-messaging-allow.json` -> `/etc/trivalent/policies/recommended/99-titanium-optional-native-messaging-allow.json`
 
-Unbreak `https://flash.android.com`, `https://grapheneos.org/install/web`, and `https://install.calyxos.org`:
+Unbreak `https://grapheneos.org/install/web`:
 
 `linux/recommended/99-titanium-optional-webusb-allow.json` -> `/etc/trivalent/policies/recommended/99-titanium-optional-webusb-allow.json`
