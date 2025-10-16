@@ -4,7 +4,7 @@
     "AllowBackForwardCacheForCacheControlNoStorePageEnabled": false,
     "AllowCrossOriginAuthPrompt": false,
     "AllowWebAuthnWithBrokenTlsCerts": false,
-    "AlwaysOpenPdfExternally": true,
+    "AlwaysOpenPdfExternally": false,
     "AmbientAuthenticationInPrivateModesEnabled": 0,
     "AudioSandboxEnabled": true,
     "AuthSchemes": "ntlm,negotiate",
@@ -68,6 +68,10 @@
     "IntensiveWakeUpThrottlingEnabled": true,
     "IntranetRedirectBehavior": 1,
     "IPv6ReachabilityOverrideEnabled": true,
+    "JavaScriptBlockedForUrls": [
+        "chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai",
+        "chrome-extension://oemmndcbldboiebfnladdacbdfmadadm"
+    ],
     "LocalNetworkAccessRestrictionsEnabled": true,
     "MaxConnectionsPerProxy": 48,
     "NetworkServiceSandboxEnabled": true,
@@ -111,6 +115,9 @@
     "StrictMimetypeCheckForWorkerScriptsEnabled": true,
     "SuppressDifferentOriginSubframeDialogs": true,
     "TLS13EarlyDataEnabled": false,
+    "URLBlocklist": [
+        "chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai"
+    ],
     "UserAgentReduction": 2,
     "UserDataSnapshotRetentionLimit": 0,
     "WebRtcIPHandling": "disable_non_proxied_udp",
