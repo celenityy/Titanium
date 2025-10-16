@@ -81,6 +81,11 @@
     "PolicyTestPageEnabled": true,
     "PostQuantumKeyAgreementEnabled": true,
     "PrefetchWithServiceWorkerEnabled": false,
+    "PrinterTypeDenyList": [
+        "cloud",
+        "extension",
+        "privet"
+    ],
     "PrivacySandboxFingerprintingProtectionEnabled": true,
     "PrivacySandboxIpProtectionEnabled": true,
     "ProfilePickerOnStartupAvailability": 0,
