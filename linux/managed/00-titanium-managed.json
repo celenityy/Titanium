@@ -53,7 +53,6 @@
     "DefaultWebUsbGuardSetting": 2,
     "DefaultWindowManagementSetting": 2,
     "DevToolsGenAiSettings": 2,
-    "DnsOverHttpsMode": "secure",
     "DomainReliabilityAllowed": false,
     "EditBookmarksEnabled": true,
     "EnableMediaRouter": false,
