@@ -1,0 +1,363 @@
+{
+  "ExtensionSettings": {
+    "*": {
+      "blocked_install_message": "I am Iron Man."
+    },
+    "oemmndcbldboiebfnladdacbdfmadadm": {
+      "blocked_install_message": "PDF Viewer (PDF.js): https://chromewebstore.google.com/detail/oemmndcbldboiebfnladdacbdfmadadm",
+      "file_url_navigation_allowed": true,
+      "installation_mode": "normal_installed",
+      "override_update_url": true,
+      "toolbar_pin": "default_unpinned",
+      "update_url": "https://extensionupdater.brave.com/service/update2/crx"
+    },
+    "cjpalhdlnbpafiamejdnhcphjbkeiagm": {
+      "blocked_install_message": "uBlock Origin: https://chromewebstore.google.com/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "normal_installed",
+      "override_update_url": true,
+      "toolbar_pin": "force_pinned",
+      "update_url": "https://extensionupdater.brave.com/service/update2/crx"
+    },
+    "glcimepnljoholdmjchkloafkggfoijh": {
+      "blocked_install_message": "360 Internet Protection: https://chromewebstore.google.com/detail/glcimepnljoholdmjchkloafkggfoijh",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "gighmmpiobklfepjocnamgkkbiglidom": {
+      "blocked_install_message": "AdBlock: https://chromewebstore.google.com/detail/gighmmpiobklfepjocnamgkkbiglidom",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "cfhdojbkjhnklbpkdaibdccddilifddb": {
+      "blocked_install_message": "Adblock Plus: https://chromewebstore.google.com/detail/cfhdojbkjhnklbpkdaibdccddilifddb",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "ohahllgiabjaoigichmmfljhkcfikeof": {
+      "blocked_install_message": "AdBlocker Ultimate: https://chromewebstore.google.com/detail/ohahllgiabjaoigichmmfljhkcfikeof - https://x.com/gorhill/status/1165747661691064322",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "fellaebeeieagcalnmmpapfioejgihci": {
+      "blocked_install_message": "App Provisioning",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "gomekmidlodglbbmalcneegieacbdmki": {
+      "blocked_install_message": "Avast Online Security & Privacy: https://chromewebstore.google.com/detail/gomekmidlodglbbmalcneegieacbdmki",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "eofcbnmajmjmplflapaojjnihcjkigck": {
+      "blocked_install_message": "Avast SafePrice: https://chromewebstore.google.com/detail/eofcbnmajmjmplflapaojjnihcjkigck",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "nbmoafcmbajniiapeidgficgifbfmjfo": {
+      "blocked_install_message": "AVG Online Security: https://chromewebstore.google.com/detail/nbmoafcmbajniiapeidgficgifbfmjfo",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "mbckjcfnjmoiinpgddefodcighgikkgn": {
+      "blocked_install_message": "AVG SafePrice: https://chromewebstore.google.com/detail/mbckjcfnjmoiinpgddefodcighgikkgn",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "jcocgejjjlnfddlhpbecfapicaajdibb": {
+      "blocked_install_message": "Bark for Chrome: https://chromewebstore.google.com/detail/jcocgejjjlnfddlhpbecfapicaajdibb - Monitoring/MDM",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "agknpiliocimoiokabdfecmgilemoich": {
+      "blocked_install_message": "Bark for Chrome Watchdog: https://chromewebstore.google.com/detail/agknpiliocimoiokabdfecmgilemoich - Monitoring/MDM",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "imneddfbdipbgilndpnagjdolfgbbkdn": {
+      "blocked_install_message": "Chrome App Deprecation Allowlist",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "inomeogfingihgjfjlpeplalcfajhgai": {
+      "blocked_install_message": "Chrome Remote Desktop: https://chromewebstore.google.com/detail/inomeogfingihgjfjlpeplalcfajhgai",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "lbimbicckdokpoicboneldipejkhjgdg": {
+      "blocked_install_message": "Chrome TranslateKit",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "mhjfbmdgcfjbbpaeojofohoefgiehjai": {
+      "blocked_install_message": "Chromium PDF Viewer",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "cocncanleafgejenidihemfflagifjic": {
+      "blocked_install_message": "Commerce Heuristics",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "heoninbaimcalnkghkaobhoajicbbola": {
+      "blocked_install_message": "Earth View 360°: https://chromewebstore.google.com/detail/heoninbaimcalnkghkaobhoajicbbola - Search hijacker",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "acbabkahihnlnpajiajhimlkihphdbfi": {
+      "blocked_install_message": "ExamRoom.AI: https://chromewebstore.google.com/detail/acbabkahihnlnpajiajhimlkihphdbfi - Monitoring/MDM",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "dcnidakmkbkbohdaelljpgdhmbbpbdbg": {
+      "blocked_install_message": "Glider Proctoring: https://chromewebstore.google.com/detail/dcnidakmkbkbohdaelljpgdhmbbpbdbg - Monitoring/MDM",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "fclddkabjpamnehflpikbghlfhblbjie": {
+      "blocked_install_message": "GLIDER.ai Proctoring: https://chromewebstore.google.com/detail/fclddkabjpamnehflpikbghlfhblbjie - Monitoring/MDM",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "fllaojicojecljbmefodhfapmkghcbnh": {
+      "blocked_install_message": "Google Analytics Opt-out: https://chromewebstore.google.com/detail/fllaojicojecljbmefodhfapmkghcbnh",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "ghbmnnjooekpmoecnnnilnnbdlolhkhi": {
+      "blocked_install_message": "Google Docs Offline: https://chromewebstore.google.com/detail/ghbmnnjooekpmoecnnnilnnbdlolhkhi",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "bmnlcjabgnpnenekpadlanbbkooimhnj": {
+      "blocked_install_message": "Honey: https://chromewebstore.google.com/detail/bmnlcjabgnpnenekpadlanbbkooimhnj",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "fihnjjcciajhdojfnbdddfaoknhalnja": {
+      "blocked_install_message": "I don't care about cookies: https://chromewebstore.google.com/detail/fihnjjcciajhdojfnbdddfaoknhalnja",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "gbiekjoijknlhijdjbaadobpkdhmoebb": {
+      "blocked_install_message": "IBA Opt-out: https://chromewebstore.google.com/detail/gbiekjoijknlhijdjbaadobpkdhmoebb",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "neifaoindggfcjicffkgpmnlppeffabd": {
+      "blocked_install_message": "Media Foundation Widevine CDM",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "nlhaleloflnhpemagojabiikkkejjlgp": {
+      "blocked_install_message": "Mettl Proctoring: https://chromewebstore.google.com/detail/nlhaleloflnhpemagojabiikkkejjlgp - Monitoring/MDM",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "gafpdjoplpbapkgicblhimfmoblifbgd": {
+      "blocked_install_message": "Mettl Tests: https://chromewebstore.google.com/detail/gafpdjoplpbapkgicblhimfmoblifbgd - Monitoring/MDM",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "oepffghndhegipmpeimohnlncaogojok": {
+      "blocked_install_message": "Norton Coupons: https://chromewebstore.google.com/detail/oepffghndhegipmpeimohnlncaogojok",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "napjheenlliimoedooldaalpjfidlidp": {
+      "blocked_install_message": "Norton Family: https://chromewebstore.google.com/detail/napjheenlliimoedooldaalpjfidlidp",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "mpnlkmlkncncpgnnkmkgoobfpnjmblnk": {
+      "blocked_install_message": "Norton Safe Search: https://chromewebstore.google.com/detail/mpnlkmlkncncpgnnkmkgoobfpnjmblnk",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "eoigllimhcllmhedfbmahegmoakcdakd": {
+      "blocked_install_message": "Norton Safe Search Enhanced: https://chromewebstore.google.com/detail/eoigllimhcllmhedfbmahegmoakcdakd",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "fklghjjljmnfjoepjmlobpekiapffcja": {
+      "blocked_install_message": "Optimization Guide On Device Model",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "llkgjffcdpffmhiakmfcdcblohccpfmo": {
+      "blocked_install_message": "Origin Trials",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "igcpjndghfaebohjdanobonebnejppej": {
+      "blocked_install_message": "POCU Proctor: https://chromewebstore.google.com/detail/igcpjndghfaebohjdanobonebnejppej - Monitoring/MDM",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "niikhdgajlphfehepabhhblakbdgeefj": {
+      "blocked_install_message": "Privacy Sandbox Attestations",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "hkegehhbmbongohpgmdadkbkmnfokicn": {
+      "blocked_install_message": "Proctor360: https://chromewebstore.google.com/detail/hkegehhbmbongohpgmdadkbkmnfokicn - Monitoring/MDM",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "digojkgonhgmnohbapdfjllpnmjmdhpg": {
+      "blocked_install_message": "ProctorExam Activity Sharing: https://chromewebstore.google.com/detail/digojkgonhgmnohbapdfjllpnmjmdhpg - Monitoring/MDM",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "hdgloanjhdcenjgiafkpbehddcnonlic": {
+      "blocked_install_message": "Protect My Choices: https://chromewebstore.google.com/detail/hdgloanjhdcenjgiafkpbehddcnonlic",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "chhjbpecpncaggjpdakmflnfcopglcmi": {
+      "blocked_install_message": "Rakuten: https://chromewebstore.google.com/detail/chhjbpecpncaggjpdakmflnfcopglcmi",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "aagaghndoahmfdbmfnajfklaomcanlnh": {
+      "blocked_install_message": "Real Time Url Checks Allowlist",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "gonpemdgkjcecdgbnaabipppbmgfggbe": {
+      "blocked_install_message": "Related Website Sets",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "jflookgnkcckhobaglndicnbbgbonegd": {
+      "blocked_install_message": "Safety Tips",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "mfhmdacoffpmifoibamicehhklffanao": {
+      "blocked_install_message": "ScreenAI Library",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "aeindiojndlokkemcgakgpgbcmgonifn": {
+      "blocked_install_message": "Secure Browser - Online Proctoring Extension: https://chromewebstore.google.com/detail/aeindiojndlokkemcgakgpgbcmgonifn - Monitoring/MDM",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "adncfiefnfjddkdlfcckejoefaoehcdf": {
+      "blocked_install_message": "Securly: https://support.securly.com/hc/articles/360001053407-Filter-How-does-Securly-s-extension-work - Monitoring/MDM",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "bemnimicbokkfdkgbghbpaelcagifglp": {
+      "blocked_install_message": "Securly: https://support.securly.com/hc/articles/360001053407-Filter-How-does-Securly-s-extension-work - Monitoring/MDM",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "bjnmaaglmedeickpbmlhmjkndenggend": {
+      "blocked_install_message": "Securly: https://support.securly.com/hc/articles/360001053407-Filter-How-does-Securly-s-extension-work - Monitoring/MDM",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "bmlalgfmolfmkjmnikbphgijefopggme": {
+      "blocked_install_message": "Securly: https://support.securly.com/hc/articles/360001053407-Filter-How-does-Securly-s-extension-work - Monitoring/MDM",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "ckecmkbnoanpgplccmnoikfmpcdladkc": {
+      "blocked_install_message": "Securly: https://support.securly.com/hc/articles/360001053407-Filter-How-does-Securly-s-extension-work - Monitoring/MDM",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "cppgiodhimhhljofjomebpcgliegpddd": {
+      "blocked_install_message": "Securly: https://support.securly.com/hc/articles/360001053407-Filter-How-does-Securly-s-extension-work - Monitoring/MDM",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "dfkheabholbfmmehflddbknjimnjelda": {
+      "blocked_install_message": "Securly: https://support.securly.com/hc/articles/360001053407-Filter-How-does-Securly-s-extension-work - Monitoring/MDM",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "ehpfmanenigliflmbaiihbppncilhaha": {
+      "blocked_install_message": "Securly: https://support.securly.com/hc/articles/360001053407-Filter-How-does-Securly-s-extension-work - Monitoring/MDM",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "hgmfginomehjpgpacpjnjaijecknnaog": {
+      "blocked_install_message": "Securly: https://support.securly.com/hc/articles/360001053407-Filter-How-does-Securly-s-extension-work - Monitoring/MDM",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "hgpppmjalkmcmloikkbmonbpdakcklfp": {
+      "blocked_install_message": "Securly: https://support.securly.com/hc/articles/360001053407-Filter-How-does-Securly-s-extension-work - Monitoring/MDM",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "iheobagjkfklnlikgihanlhcddjoihkg": {
+      "blocked_install_message": "Securly: https://support.securly.com/hc/articles/360001053407-Filter-How-does-Securly-s-extension-work - Monitoring/MDM",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "joflmkccibkooplaeoinecjbmdebglab": {
+      "blocked_install_message": "Securly: https://support.securly.com/hc/articles/360001053407-Filter-How-does-Securly-s-extension-work - Monitoring/MDM",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "kagdohglfkeomlhbbmmnnnnllifokngl": {
+      "blocked_install_message": "Securly: https://extensions.securly.com/extensions.xml - Monitoring/MDM",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "kfiocjonplkilcjfgabfngiddebalkod": {
+      "blocked_install_message": "Securly: https://support.securly.com/hc/articles/360001053407-Filter-How-does-Securly-s-extension-work - Monitoring/MDM",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "khfcjmoagjdbcchabenkohfbllefkbei": {
+      "blocked_install_message": "Securly: https://support.securly.com/hc/articles/360001053407-Filter-How-does-Securly-s-extension-work - Monitoring/MDM",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "knneimmpeamikmjijmnhjmmobddleohj": {
+      "blocked_install_message": "Securly: https://support.securly.com/hc/articles/360001053407-Filter-How-does-Securly-s-extension-work - Monitoring/MDM",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "lcgajdcbmhepemmlpemkkpgagieehmjp": {
+      "blocked_install_message": "Securly: https://support.securly.com/hc/articles/360001053407-Filter-How-does-Securly-s-extension-work - Monitoring/MDM",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "nldffgleokocdcddeocjmdgneoinbhfb": {
+      "blocked_install_message": "Securly: https://support.securly.com/hc/articles/360001053407-Filter-How-does-Securly-s-extension-work - Monitoring/MDM",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "pmjdkmdfhcbecicgaenammmpamphljpe": {
+      "blocked_install_message": "Securly: https://support.securly.com/hc/articles/360001053407-Filter-How-does-Securly-s-extension-work - Monitoring/MDM",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "bjbcblmdcnggnibecjikpoljcgkbgphl": {
+      "blocked_install_message": "WASM TTS Engine",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "kjeghcllfecehndceplomkocgfbklffd": {
+      "blocked_install_message": "Web Threat Shield (Webroot): https://chromewebstore.google.com/detail/kjeghcllfecehndceplomkocgfbklffd",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "oimompecagnajdejgnnjijobebaeigek": {
+      "blocked_install_message": "Widevine Content Decryption Module",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    },
+    "ejhnaokakbijjheikhpddhpepahkglen": {
+      "blocked_install_message": "Yahoo Shopping: https://chromewebstore.google.com/detail/ejhnaokakbijjheikhpddhpepahkglen",
+      "file_url_navigation_allowed": false,
+      "installation_mode": "blocked"
+    }
+  }
+}

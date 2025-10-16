@@ -1,0 +1,12 @@
+{
+    "ExtensionSettings": {
+        "cjpalhdlnbpafiamejdnhcphjbkeiagm": {
+            "blocked_install_message": "uBlock Origin: https://chromewebstore.google.com/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm",
+            "file_url_navigation_allowed": false,
+            "installation_mode": "normal_installed",
+            "override_update_url": true,
+            "toolbar_pin": "force_pinned",
+            "update_url": "https://extensionupdater.brave.com/service/update2/crx"
+        }
+    }
+}

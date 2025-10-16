@@ -19,7 +19,7 @@ Titanium is a set of enterprise policies for Chromium-based web browsers, design
 
 `linux/managed/00-titanium-managed.json` -> `/etc/brave/policies/managed/00-titanium-managed.json`
 
-`linux/managed/01-titanium-extensions.json` -> `/etc/brave/policies/managed/01-titanium-extensions.json`
+`linux/managed/01-titanium-extensions-mv2.json` -> `/etc/brave/policies/managed/01-titanium-extensions-mv2.json`
 
 `linux/managed/02-titanium-extension-settings.json` -> `/etc/brave/policies/managed/02-titanium-extension-settings.json`
 
@@ -53,13 +53,15 @@ Unbreak `https://flash.android.com`, `https://grapheneos.org/install/web`, and `
 
 `linux/managed/00-titanium-managed.json` -> `/etc/brave/policies/managed/00-titanium-managed.json`
 
-`linux/managed/01-titanium-extensions.json` -> `/etc/chromium/policies/managed/01-titanium-extensions.json`
-
 `linux/managed/02-titanium-extension-settings.json` -> `/etc/chromium/policies/managed/02-titanium-extension-settings.json`
 
 `linux/recommended/00-titanium-recommended.json` -> `/etc/chromium/policies/recommended/00-titanium-recommended.json`
 
 `linux/recommended/01-titanium-cookies.json` -> `/etc/chromium/policies/recommended/01-titanium-cookies.json`
+
+If your browser supports Manifest V2 extensions *(ex. Cromite)*: `linux/managed/01-titanium-extensions-mv2.json` -> `/etc/chromium/policies/managed/01-titanium-extensions-mv2.json`
+
+If your browser *only* supports Manifest V3 extensions: `linux/managed/01-titanium-extensions-mv3.json` -> `/etc/chromium/policies/managed/01-titanium-extensions-mv3.json`
 
 ### Optional
 
@@ -87,7 +89,7 @@ Unbreak `https://flash.android.com`, `https://grapheneos.org/install/web`, and `
 
 `linux/managed/00-titanium-managed.json` -> `/etc/trivalent/policies/managed/00-titanium-managed.json`
 
-`linux/managed/01-titanium-extensions.json` -> `/etc/trivalent/policies/managed/01-titanium-extensions.json`
+`linux/managed/01-titanium-extensions-mv3.json` -> `/etc/trivalent/policies/managed/01-titanium-extensions-mv3.json`
 
 `linux/managed/02-titanium-extension-settings.json` -> `/etc/trivalent/policies/managed/02-titanium-extension-settings.json`
 
