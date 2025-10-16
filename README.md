@@ -2,7 +2,7 @@
 
 Titanium is a set of enterprise policies for Chromium-based web browsers, designed to provide users with a more private, secure, and usable web browsing experience.
 
-**It should be noted that I do NOT recommend the use of Chromium browsers**, due to privacy, freedom, and ideological concerns - as such, my personal usage of them is limited. **I would strongly recommend most users use [Firefox](https://www.mozilla.org/firefox) with my [Phoenix](https://phoenix.celenity.dev) on desktop, and [IronFox](https://ironfoxoss.org/) on Android instead**.
+**It should be noted that I do NOT recommend the use of Chromium browsers**, due to privacy, freedom, and ideological concerns - as such, my personal usage of them is limited. **I would strongly recommend most users use [Firefox](https://www.firefox.com/) with my [Phoenix](https://phoenix.celenity.dev/) on desktop, and [IronFox](https://ironfoxoss.org/) on Android instead**.
 
 **That being said**: Chromium does [provide stronger sandboxing](https://grapheneos.org/usage#web-browsing) than its alternatives *(such as Firefox)*, and thus may be preferable depending on your threat model and personal preference.
 
