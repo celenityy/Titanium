@@ -7,7 +7,7 @@ Titanium is a set of enterprise policies for Chromium-based web browsers, design
 **That being said**: Chromium does [provide stronger sandboxing](https://grapheneos.org/usage#web-browsing) than its alternatives *(such as Firefox)*, and thus may be preferable depending on your threat model and personal preference.
 
 > [!NOTE]
-> While Titanium's home is [Codeberg](https://codeberg.org/celenity/Titanium), this repo is also mirrored to both [GitLab](https://gitlab.com/celenityy/Titanium) & [GitHub](https://github.com/celenityy/Titanium).
+> While Titanium's home is [Codeberg](https://codeberg.org/celenity/Titanium), this repo is also mirrored to both [GitLab](https://gitlab.com/celenityy/Titanium) and [GitHub](https://github.com/celenityy/Titanium).
 
 # File Tree
 
