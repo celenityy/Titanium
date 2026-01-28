@@ -137,6 +137,7 @@
     "SafeBrowsingExtendedReportingEnabled": false,
     "SafeBrowsingSurveysEnabled": false,
     "SafeSitesFilterBehavior": 0,
+    "SearchContentSharingSettings": 1,
     "SharedClipboardEnabled": false,
     "ShoppingListEnabled": false,
     "ShowCastIconInToolbar": false,
