@@ -114,3 +114,7 @@ Unbreak Bitwarden's Biometric authentication and Firefox Bridge:
 Unbreak `https://grapheneos.org/install/web`:
 
 `linux/recommended/99-titanium-optional-webusb-allow.json` -> `/etc/trivalent/policies/recommended/99-titanium-optional-webusb-allow.json`
+
+# Licensing
+
+Contents of this repo are licensed under the [GNU General Public License v3.0 or later](https://spdx.org/licenses/GPL-3.0-or-later.html) *(`GPL-3.0-or-later`)* where applicable.
