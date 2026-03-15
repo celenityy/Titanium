@@ -73,7 +73,7 @@
     "ForceSafeSearch": false,
     "ForceYouTubeRestrict": 0,
     "ForceYouTubeSafetyMode": false,
-    "GeminiSettings": 1,
+    "GeminiActOnWebSettings": 1,
     "GenAiDefaultSettings": 2,
     "GenAiLensOverlaySettings": 2,
     "GenAILocalFoundationalModelSettings": 1,
