@@ -54,6 +54,7 @@
     "DefaultWebUsbGuardSetting": 2,
     "DefaultWindowManagementSetting": 2,
     "DevToolsGenAiSettings": 2,
+    "DevToolsGoogleDeveloperProgramProfileAvailability": 2,
     "DomainReliabilityAllowed": false,
     "EditBookmarksEnabled": true,
     "EnableMediaRouter": false,
