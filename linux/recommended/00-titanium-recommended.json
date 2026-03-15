@@ -71,7 +71,8 @@
         "chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai",
         "chrome-extension://oemmndcbldboiebfnladdacbdfmadadm"
     ],
-    "LocalNetworkAccessRestrictionsEnabled": true,
+    "LocalNetworkAccessPermissionsPolicyDefaultEnabled": false,
+    "LocalNetworkAccessRestrictionsTemporaryOptOut": false,
     "MaxConnectionsPerProxy": 48,
     "NetworkServiceSandboxEnabled": true,
     "OopPrintDriversAllowed": true,
