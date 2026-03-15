@@ -43,6 +43,7 @@
     "DefaultDirectSocketsSetting": 2,
     "DefaultFileSystemReadGuardSetting": 2,
     "DefaultFileSystemWriteGuardSetting": 2,
+    "DefaultIdleDetectionSetting": 2,
     "DefaultInsecureContentSetting": 2,
     "DefaultLocalFontsSetting": 2,
     "DefaultSensorsSetting": 2,
