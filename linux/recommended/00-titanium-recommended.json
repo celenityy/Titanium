@@ -15,6 +15,7 @@
     "AutoplayAllowed": false,
     "BackgroundModeEnabled": false,
     "BasicAuthOverHttpEnabled": false,
+    "CacheEncryptionEnabled": true,
     "ClearWindowNameForNewBrowsingContextGroup": true,
     "ComponentUpdatesEnabled": true,
     "DataUrlInSvgUseEnabled": false,
