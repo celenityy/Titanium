@@ -2,7 +2,7 @@
     "3rdparty": {
         "extensions": {
             "cjpalhdlnbpafiamejdnhcphjbkeiagm": {
-                "adminSettings": "{ \"assetsBootstrapLocation\": \"https:\/\/gitlab.com\/celenityy\/assets\/-\/raw\/pages\/ublock\/titanium\/assets.json\" }"
+                "adminSettings": "{ \"assetsBootstrapLocation\": \"https:\/\/assets.celenity.dev\/ublock\/titanium\/assets.json\" }"
             },
             "oemmndcbldboiebfnladdacbdfmadadm": {
                 "disableTelemetry": true,
