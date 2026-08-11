@@ -20,6 +20,7 @@
     "ClearWindowNameForNewBrowsingContextGroup": true,
     "ComponentUpdatesEnabled": true,
     "DataUrlInSvgUseEnabled": false,
+    "DataUrlInWebWorkerOpaqueOriginEnabled": true,
     "DefaultGeolocationSetting": 2,
     "DefaultJavaScriptJitSetting": 2,
     "DefaultJavaScriptOptimizerSetting": 2,
