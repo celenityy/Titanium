@@ -3,6 +3,7 @@
     "AdsSettingForIntrusiveAdsSites": 2,
     "AllowBackForwardCacheForCacheControlNoStorePageEnabled": false,
     "AllowCrossOriginAuthPrompt": false,
+    "AllowSocketPoolSizeRandomizationForProxies": true,
     "AllowWebAuthnWithBrokenTlsCerts": false,
     "AlwaysOpenPdfExternally": false,
     "AmbientAuthenticationInPrivateModesEnabled": 0,
