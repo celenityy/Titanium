@@ -135,6 +135,7 @@
     "ReportPolicyData": false,
     "ReportUserIDData": false,
     "ReportVersionData": false,
+    "RestrictYouTubeCookiesDeletion": false,
     "RoamingProfileSupportEnabled": false,
     "SafeBrowsingExtendedReportingEnabled": false,
     "SafeBrowsingSurveysEnabled": false,
