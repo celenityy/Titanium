@@ -1,15 +1,15 @@
 {
-    "ExtensionSettings": {
-        "*": {
-            "blocked_install_message": "I am Iron Man."
-        },
-        "oemmndcbldboiebfnladdacbdfmadadm": {
-            "blocked_install_message": "PDF Viewer (PDF.js): https://chromewebstore.google.com/detail/oemmndcbldboiebfnladdacbdfmadadm",
-            "file_url_navigation_allowed": true,
-            "installation_mode": "normal_installed",
-            "override_update_url": true,
-            "toolbar_pin": "default_unpinned",
-            "update_url": "https://extensionupdater.brave.com/service/update2/crx"
-        }
+  "ExtensionSettings": {
+    "*": {
+      "blocked_install_message": "I am Iron Man."
+    },
+    "oemmndcbldboiebfnladdacbdfmadadm": {
+      "blocked_install_message": "PDF Viewer (PDF.js): https://chromewebstore.google.com/detail/oemmndcbldboiebfnladdacbdfmadadm",
+      "file_url_navigation_allowed": true,
+      "installation_mode": "normal_installed",
+      "override_update_url": true,
+      "toolbar_pin": "default_unpinned",
+      "update_url": "https://extensionupdater.brave.com/service/update2/crx"
     }
+  }
 }

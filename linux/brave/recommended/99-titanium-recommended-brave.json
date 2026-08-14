@@ -1,9 +1,9 @@
 {
-    "BraveAIChatEnabled": false,
-    "BraveNewsDisabled": true,
-    "BraveShieldsDisabledForUrls": [
-      "https://grapheneos.org"
-    ],
-    "BraveSpeedreaderDisabled": false,
-    "DownloadRestrictions": 4
+  "BraveAIChatEnabled": false,
+  "BraveNewsDisabled": true,
+  "BraveShieldsDisabledForUrls": [
+    "https://grapheneos.org"
+  ],
+  "BraveSpeedreaderDisabled": false,
+  "DownloadRestrictions": 4
 }

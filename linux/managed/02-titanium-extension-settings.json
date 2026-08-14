@@ -1,18 +1,18 @@
 {
-    "3rdparty": {
-        "extensions": {
-            "cjpalhdlnbpafiamejdnhcphjbkeiagm": {
-                "adminSettings": "{ \"assetsBootstrapLocation\": \"https:\/\/assets.celenity.dev\/ublock\/titanium\/assets.json\" }"
-            },
-            "oemmndcbldboiebfnladdacbdfmadadm": {
-                "disableTelemetry": true,
-                "enablePermissions": false,
-                "enableScripting": false,
-                "enableSignatureEditor": true,
-                "enableXfa": false,
-                "externalLinkTarget": 2,
-                "sidebarViewOnLoad": 2
-            }
-        }
+  "3rdparty": {
+    "extensions": {
+      "cjpalhdlnbpafiamejdnhcphjbkeiagm": {
+        "adminSettings": "{ \"assetsBootstrapLocation\": \"https:\/\/assets.celenity.dev\/ublock\/titanium\/assets.json\" }"
+      },
+      "oemmndcbldboiebfnladdacbdfmadadm": {
+        "disableTelemetry": true,
+        "enablePermissions": false,
+        "enableScripting": false,
+        "enableSignatureEditor": true,
+        "enableXfa": false,
+        "externalLinkTarget": 2,
+        "sidebarViewOnLoad": 2
+      }
     }
+  }
 }
